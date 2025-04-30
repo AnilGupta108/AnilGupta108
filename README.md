@@ -5,9 +5,9 @@
 ![logo](https://github.com/AnilGupta108/AnilGupta108/blob/main/Anim.gif)
 
 <h1 align="center">Hi 👋, I'm Anil Gupta</h1>
-<h3 align="center">A passionate B.Tech student in Electronics & Communication Engineering, exploring AI, Cybersecurity, and Cloud Technologies.</h3>
+<h3 align="center">Professional with strong expertise in Linux, AWS, and Artificial Intelligence, backed by hands-on experience in cybersecurity, edge computing, and cloud-based infrastructure for smart city and industrial applications..</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Linux Developer" width="400" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=anilgupta108&label=Profile%20views&color=0e75b6&style=flat" alt="anilgupta108" />
@@ -19,7 +19,7 @@
 
 - 👨‍💻 My portfolio and projects are available at [linkedin.com/in/eranilgupta](https://www.linkedin.com/in/eranilgupta/)
 
-- 💬 Ask me about **Python, C++, Bash, Linux, Git, AWS, Cybersecurity, and AI**
+- 💬 Ask me about **Python, C++, Bash, Linux, Git, AWS, Docker, Cybersecurity, and AI**
 
 - 📫 How to reach me **anilgupta.07073@gmail.com**
 
